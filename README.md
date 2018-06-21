@@ -12,7 +12,7 @@ When you wanna start it, please use java -jar with this two parameters:
 
 + -o CSV output directory
 
-Supports Oracle、MySQL、SQL Server、DB2. You should modify application.properties to adapt different data sources.
+Supports Oracle、MySQL、SQL Server、DB2. You should modify ***application.properties*** file to adapt different data sources.
 
 Input file can support more than 1 sql but different sqls will be divided by lines.
 
