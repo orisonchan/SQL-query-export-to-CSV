@@ -12,7 +12,7 @@ When you wanna start it, please use java -jar with this two parameters:
 
 + -o CSV output directory
 
-Runcommand example:
+Run command example:
 
 > java -jar sql-exporter-1.0-SNAPSHOT.jar -o /home/orison/ -i /home/orison/sql.sql
 
