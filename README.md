@@ -12,6 +12,10 @@ When you wanna start it, please use java -jar with this two parameters:
 
 + -o CSV output directory
 
+Runcommand example:
+
+> java -jar sql-exporter-1.0-SNAPSHOT.jar -o /home/orison/ -i /home/orison/sql.sql
+
 Supports Oracle、MySQL、SQL Server、DB2. You should modify ***application.properties*** file to adapt different data sources.
 
 Input file can support more than 1 sql but different sqls will be divided by lines.
