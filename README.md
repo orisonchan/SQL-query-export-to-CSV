@@ -1,4 +1,4 @@
-# export SQL query to CSV
+# Export SQL Query to CSV
 
 This tools uses SpringBoot and needs JDK1.7.
 
