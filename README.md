@@ -4,7 +4,7 @@
 
 # Export SQL Query to CSV
 
-This tools uses SpringBoot and needs JDK1.7.
+This tools uses SpringBoot and needs at least JDK1.7.
 
 You can compile and package using Maven command:
 
