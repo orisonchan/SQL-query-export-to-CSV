@@ -1,3 +1,7 @@
+<p align="left">
+  <a href="https://travis-ci.org/orisonchan/SQL-query-export-to-CSV"><img src="https://img.shields.io/travis/orisonchan/SQL-query-export-to-CSV/master.svg" alt="Build Status"></a>
+</p>
+
 # Export SQL Query to CSV
 
 This tools uses SpringBoot and needs JDK1.7.
